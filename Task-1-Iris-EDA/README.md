@@ -1,9 +1,4 @@
-# DevelopersHub Data Science & Analytics Internship
-**Intern:** Zoya Aamir
-
----
-
-## Task 1: Iris Dataset - Exploratory Data Analysis
+# Task 1: Iris Dataset - Exploratory Data Analysis
 
 ### Objective
 Understand how to read, summarize, and visualize a dataset.
