@@ -1,5 +1,6 @@
-## Task 2: Credit Risk Prediction
+# Task 2: Credit Risk Prediction
 
+### Objective
 Predicted whether a loan applicant is likely to default on a loan using the Loan Prediction Dataset from Kaggle.
 
 ### Approach
