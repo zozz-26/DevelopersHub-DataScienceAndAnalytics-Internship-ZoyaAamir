@@ -15,3 +15,9 @@ Advanced internship tasks covering classification, explainable AI (XAI), and uns
 - Found optimal clusters (K=5) using Elbow Method
 - Visualized multi-feature clusters using PCA
 - Identified 5 segments (VIPs, Careful Rich, Impulsive Buyers, Regulars, Budget Customers) with tailored marketing strategies
+
+## Task 5: Interactive Business Dashboard in Streamlit
+- Built an interactive dashboard using Global Superstore Dataset (51,290 records)
+- Added sidebar filters: Region, Category, and Sub-Category
+- Displayed KPIs: Total Sales, Total Profit, Top 5 Customers, and Sales by Category
+- Key insight: Technology is the most profitable category; dashboard deployed and tested via localtunnel
