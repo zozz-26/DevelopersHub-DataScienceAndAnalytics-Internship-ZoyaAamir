@@ -1,7 +1,6 @@
 # Phase 2: Advanced Data Science Tasks
 
-Advanced internship tasks covering classification, explainable AI (XAI), and unsupervised learning.
-
+Advanced internship tasks covering classification, explainable AI (XAI), unsupervised learning, and business intelligence dashboarding.
 ---
 
 ## Task 1: Term Deposit Subscription Prediction
