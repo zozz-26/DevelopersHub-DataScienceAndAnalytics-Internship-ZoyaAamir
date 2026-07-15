@@ -1,4 +1,4 @@
-# DevelopersHub Corporation Data Science & Analytics Internship
+# DevelopersHub Corporation Data Science & Analytics Internship (Phase 1)
 ## **Intern:** Zoya Aamir      
 ## **DHC-ID: DHC-1550**
 
