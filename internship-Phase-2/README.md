@@ -1,5 +1,8 @@
 # Phase 2: Advanced Data Science Tasks
 
+## **Intern:** Zoya Aamir      
+## **DHC-ID: DHC-1550**
+
 Advanced internship tasks covering classification, explainable AI (XAI), unsupervised learning, and business intelligence dashboarding.
 ---
 
